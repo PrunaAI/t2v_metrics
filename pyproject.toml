@@ -44,7 +44,6 @@ dependencies = [
     "scikit-learn",
     "pycocoevalcap",
     "hpsv2",
-    "clip @ git+https://github.com/openai/CLIP.git",
     # Video Model Additional Requirements
     "llava @ git+https://github.com/LLaVA-VL/LLaVA-NeXT.git",
     "fire==0.4.0",
